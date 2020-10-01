@@ -4,6 +4,8 @@
 
 Application to analyse Facebook Messenger data.
 
+**The below was written in 2018.**
+
 I am not a super experienced developer, especially when it comes to JavaScript, so the code might be a little bit messy.
 
 This project initially started in 2017 as a Python script that used a HTML parser to get information from the Facebook download. At the time, HTML was the only format Facebook offered their data download. The option to download in JSON now makes analysis a lot easier (and much much faster). Ultimately the Python version was left in a place where I was pretty happy with it for person use, but it wasn't something that was ready to be distributed or widely used. It was also slow due to the bulkiness of HTML data.
